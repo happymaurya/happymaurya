@@ -35,7 +35,6 @@ With experience across both web and mobile, I deliver end-to-end solutions and e
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-
 # Tools
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
@@ -46,9 +45,6 @@ With experience across both web and mobile, I deliver end-to-end solutions and e
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-
-## 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyMaurya&layout=compact&hide_progress=true&langs_count=6)
 
 #
 [![GitHub Streak](https://github-readme-streak-stats-sand-alpha.vercel.app?user=Denvercoder1&theme=dark)](https://git.io/streak-stats)
