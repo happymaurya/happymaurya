@@ -9,7 +9,7 @@ With experience across both web and mobile, I deliver end-to-end solutions and e
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-   • DSA Proficiency: Solved 200+ problems on platforms like LeetCode, HackerRank
+     • DSA Proficiency: Solved 200+ problems on platforms like LeetCode, HackerRank
 □ Language 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
