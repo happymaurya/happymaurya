@@ -1,15 +1,18 @@
-                                                      Hi, I'm Happy Maurya
+                                                     Hi, I'm Happy Maurya
 
 I’m a Full-Stack Developer with expertise in the MERN Stack, Mobile Application Development, and a strong foundation in DSA. I build scalable, efficient applications and write clean, maintainable code.
 
 With experience across both web and mobile, I deliver end-to-end solutions and enjoy solving real-world problems through intuitive and robust technology.
 
 □ Plateform
+
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-     • DSA Proficiency: Solved 200+ problems on platforms like LeetCode, HackerRank
+
+       • DSA Proficiency: Solved 200+ problems on platforms like LeetCode, HackerRank
+     
 □ Language 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
