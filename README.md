@@ -1,4 +1,4 @@
-# Hi, I'm Happy Maurya
+                                                     # Hi, I'm Happy Maurya
 
 I’m a Full-Stack Developer with expertise in the MERN Stack, Mobile Application Development, and a strong foundation in DSA. I build scalable, efficient applications and write clean, maintainable code.
 
