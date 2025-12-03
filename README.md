@@ -1,23 +1,23 @@
-                                                     # Hi, I'm Happy Maurya
+                                                      Hi, I'm Happy Maurya
 
 I’m a Full-Stack Developer with expertise in the MERN Stack, Mobile Application Development, and a strong foundation in DSA. I build scalable, efficient applications and write clean, maintainable code.
 
 With experience across both web and mobile, I deliver end-to-end solutions and enjoy solving real-world problems through intuitive and robust technology.
 
-# Plateform
+□ Plateform
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-    * 🧠 DSA Proficiency: Solved 200+ problems on platforms like LeetCode, HackerRank
-# Language 
+   • DSA Proficiency: Solved 200+ problems on platforms like LeetCode, HackerRank
+□ Language 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-# Full-stack devloper
+□ Full-stack devloper
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -35,7 +35,7 @@ With experience across both web and mobile, I deliver end-to-end solutions and e
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-# Tools
+□ Tools
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -46,5 +46,5 @@ With experience across both web and mobile, I deliver end-to-end solutions and e
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
-#
+□
 [![GitHub Streak](https://github-readme-streak-stats-sand-alpha.vercel.app?user=Denvercoder1&theme=dark)](https://git.io/streak-stats)
