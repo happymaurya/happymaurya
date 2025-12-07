@@ -52,8 +52,7 @@ With experience across both web and mobile, I deliver end-to-end solutions and e
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
-□
-
+□ Github
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
