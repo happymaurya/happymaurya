@@ -53,4 +53,6 @@ With experience across both web and mobile, I deliver end-to-end solutions and e
 
 
 □
-[[![GitHub Streak](https://github-readme-streak-stats-sand-alpha.vercel.app?user=Denvercoder1&theme=dark)](https://git.io/streak-stats)](https://bolt.new/~/sb1-cvdhv7nk)
+[![GitHub Streak](https://github-readme-streak-stats-sand-alpha.vercel.app?user=)](https://git.io/streak-stats)
+
+
