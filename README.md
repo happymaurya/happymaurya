@@ -1,6 +1,6 @@
                                                      Hi, I'm Happy Maurya
 
-I’m a Full-Stack Developer with expertise in the MERN Stack, Mobile Application Development, and a strong foundation in DSA. I build scalable, efficient applications and write clean, maintainable code.
+I’m a Full-Stack Developer with expertise in the MERN Stack, Mobile Appl ication Development, and a strong foundation in DSA. I build scalable, efficient applications and write clean, maintainable code.
 
 With experience across both web and mobile, I deliver end-to-end solutions and enjoy solving real-world problems through intuitive and robust technology.
 
@@ -53,4 +53,4 @@ With experience across both web and mobile, I deliver end-to-end solutions and e
 
 
 □
-[![GitHub Streak](https://github-readme-streak-stats-sand-alpha.vercel.app?user=Denvercoder1&theme=dark)](https://git.io/streak-stats)
+[[![GitHub Streak](https://github-readme-streak-stats-sand-alpha.vercel.app?user=Denvercoder1&theme=dark)](https://git.io/streak-stats)](https://bolt.new/~/sb1-cvdhv7nk)
