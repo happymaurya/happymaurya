@@ -54,6 +54,6 @@ With experience across both web and mobile, I deliver end-to-end solutions and e
 
 □ Github
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-sand-alpha.vercel.app?user=Happy%20maurya&theme=tokyonight-duo&hide_border=true&card_width=496)](https://git.io/streak-stats)
 
 
