@@ -1,59 +1,115 @@
-                                                     Hi, I'm Happy Maurya
+# Hi 👋, I'm Happy Maurya
 
-I’m a Full-Stack Developer with expertise in the MERN Stack, Mobile Appl ication Development, and a strong foundation in DSA. I build scalable, efficient applications and write clean, maintainable code.
+🎓 Final Year B.Tech Computer Science Engineering Student from Kanpur, India
 
-With experience across both web and mobile, I deliver end-to-end solutions and enjoy solving real-world problems through intuitive and robust technology.
+💻 Full Stack Developer | MERN Stack Developer | Flutter Developer | Founder of TheDevFlo
 
-□ Plateform
+🚀 Passionate about building scalable web applications, mobile apps, AI-powered solutions, and modern digital experiences.
 
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+---
 
+## 👨‍💻 About Me
 
-       • DSA Proficiency: Solved 200+ problems on platforms like LeetCode, HackerRank
-     
-□ Language 
+* 🌱 Currently learning Advanced DSA, System Design, Cloud Computing, and AI Applications
+* 💡 Interested in Full Stack Development, Software Engineering, AI/ML, and SaaS Products
+* 🧠 Solved 300+ DSA problems on LeetCode and coding platforms
+* 🔭 Building projects using MERN Stack, Next.js, Flutter, Firebase, and AWS
+* 🚀 Founder of TheDevFlo – Digital Solutions Agency
+* 🌐 Portfolio: https://thedevflo.com
+* 📫 Reach me at: **[hello@thedevflo.com](mailto:hello@thedevflo.com)**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
+## 🚀 Featured Projects
 
-□ Full-stack devloper
+### 🌐 TheDevFlo Agency Website
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+Modern business website built with Next.js, TypeScript, Tailwind CSS, Framer Motion, and SEO optimization.
 
+### 🛒 GoCart E-Commerce Platform
 
-□ Tools
+Full-stack e-commerce application built using MERN Stack with authentication, payment integration, and admin dashboard.
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+### 📱 FameX Social Media App
 
+Flutter-based social networking application with Firebase Authentication, Realtime Database, and media sharing features.
 
-□ Github
+### 🎒 AdventureXplorer
 
-[![GitHub Streak](https://github-readme-streak-stats-sand-alpha.vercel.app?user=Happy%20maurya&theme=tokyonight-duo&hide_border=true&card_width=496)](https://git.io/streak-stats)
+Travel booking platform built using MERN Stack with modern UI, booking management, and responsive design.
 
+### 🤖 AI Virtual Assistant
 
+Python-powered AI assistant capable of voice commands, automation, web search, and productivity tasks.
+
+---
+
+## 🏆 Coding Profiles
+
+* LeetCode
+* HackerRank
+* GitHub
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+* JavaScript
+* TypeScript
+* Java
+* Python
+* SQL
+
+### Frontend
+
+* React.js
+* Next.js
+* Tailwind CSS
+* Redux
+* HTML5
+* CSS3
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+
+### Database
+
+* MongoDB
+* MySQL
+* Firebase
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* AWS
+* Figma
+* Postman
+
+---
+
+## 📈 Achievements
+
+* ✅ Built 10+ Full Stack Projects
+* ✅ Solved 300+ DSA Problems
+* ✅ Developed Web & Mobile Applications
+* ✅ Worked with International Clients through TheDevFlo
+* ✅ Experienced in SEO, Performance Optimization, and UI/UX Design
+
+---
+
+## 🤝 Let's Connect
+
+* LinkedIn: https://linkedin.com/in/happymaurya
+* GitHub: https://github.com/HappyMaurya
+* Portfolio: https://thedevflo.com
+* Email: [hello@thedevflo.com](mailto:hello@thedevflo.com)
+
+⭐ Open to internships, freelance projects, collaborations, and software development opportunities.
