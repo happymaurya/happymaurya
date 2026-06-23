@@ -1,5 +1,5 @@
-# 👨‍💻 Hi there, I'm Happy Maurya ✨
-🚀 **Senior Full-Stack & Flutter Developer | Founder of TheDevFlo | B.Tech CSE (AI & ML)**
+#   Hi there, I'm Happy Maurya ✨
+  **Senior Full-Stack & Flutter Developer | Founder of TheDevFlo | B.Tech CSE (AI & ML)**
 
 Welcome to my digital space! I am a passionate software engineer focused on building highly scalable web architectures, cross-platform mobile solutions, and AI-driven applications. I thrive on crafting fluid, high-performance digital experiences with cutting-edge frontends and robust backends.
 
@@ -18,28 +18,28 @@ Welcome to my digital space! I am a passionate software engineer focused on buil
 
 ## 🛠️ Tech Stack & Ecosystem
 
-### 💻 Core Languages
+###  Core Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,dart" />
   </a>
 </p>
 
-### 🎨 Frontend & Mobile Architecture
+###  Frontend & Mobile Architecture
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,redux,html,css" />
   </a>
 </p>
 
-### ⚙️ Backend, Databases & Cloud
+###  Backend, Databases & Cloud
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,aws" />
   </a>
 </p>
 
-### 🔧 IDEs, Tools & Workflows
+###  IDEs, Tools & Workflows
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,figma,postman" />
@@ -48,7 +48,7 @@ Welcome to my digital space! I am a passionate software engineer focused on buil
 
 ---
 
-## 📈 Engineering Metrics
+##  Engineering Metrics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HappyMaurya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Happy's GitHub Stats" height="180" />
@@ -57,7 +57,7 @@ Welcome to my digital space! I am a passionate software engineer focused on buil
 
 ---
 
-## 💎 Featured Projects
+##  Featured Projects
 
 ### 🌐 TheDevFlo Agency Website
 > **Next.js, TypeScript, Tailwind CSS, GSAP, Framer Motion**
@@ -84,9 +84,9 @@ Welcome to my digital space! I am a passionate software engineer focused on buil
 
 ## 🏆 Key Milestones
 
-* 💼 **Production Delivery:** Handled and shipped web solutions for international clients under my agency banner, TheDevFlo.
-* 🎯 **Competitive Programming:** Maintained consistent problem-solving patterns on LeetCode targeting high-difficulty algorithmic concepts.
-* 👥 **Hackathons:** Actively pitching, structural planning, and scaling concepts in multi-stage competitive technical challenges (EY Techathon, Swiggy Food for Thought).
+*  **Production Delivery:** Handled and shipped web solutions for international clients under my agency banner, TheDevFlo.
+*  **Competitive Programming:** Maintained consistent problem-solving patterns on LeetCode targeting high-difficulty algorithmic concepts.
+*  **Hackathons:** Actively pitching, structural planning, and scaling concepts in multi-stage competitive technical challenges (EY Techathon, Swiggy Food for Thought).
 
 ---
 
