@@ -16,7 +16,7 @@
 * 🔭 Building projects using MERN Stack, Next.js, Flutter, Firebase, and AWS
 * 🚀 Founder of TheDevFlo – Digital Solutions Agency
 * 🌐 Portfolio: https://thedevflo.com
-* 📫 Reach me at: **[hello@thedevflo.com](mailto:hello@thedevflo.com)**
+* 📫 Reach me at: **happymaurya543@gmail.com**
 
 ---
 
@@ -46,9 +46,9 @@ Python-powered AI assistant capable of voice commands, automation, web search, a
 
 ## 🏆 Coding Profiles
 
-* LeetCode
-* HackerRank
-* GitHub
+* [LeetCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg)
+* [HackerRank](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg)
+* [GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
 
 ---
 
@@ -56,43 +56,43 @@ Python-powered AI assistant capable of voice commands, automation, web search, a
 
 ### Languages
 
-* JavaScript
-* TypeScript
-* Java
-* Python
-* SQL
+* [JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+* [TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+* [Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+* [Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+* [SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
 
 ### Frontend
 
-* React.js
-* Next.js
-* Tailwind CSS
-* Redux
-* HTML5
-* CSS3
+* [React.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+* [Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
+* [Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)
+* [Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)
+* [HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+* [CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
 
 ### Backend
 
-* Node.js
-* Express.js
+* [Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+* [Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
 * REST APIs
 * JWT Authentication
 
 ### Database
 
-* MongoDB
-* MySQL
-* Firebase
+* [MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
+* [MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+* [Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)
 
 ### Tools & Platforms
 
-* Git
-* GitHub
-* VS Code
-* AWS
-* Figma
-* Postman
-
+* [Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+* [GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+* [VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
+* [AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+* [Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)
+* [Postman
+](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 ---
 
 ## 📈 Achievements
