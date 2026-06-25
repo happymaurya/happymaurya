@@ -1,144 +1,103 @@
-# 👋 Hi, I'm Happy Maurya
+#   Hi there, I'm Happy Maurya ✨
+  **Senior Full-Stack & Flutter Developer | Founder of TheDevFlo | B.Tech CSE (AI & ML)**
 
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Founder+of+TheDevFlo;Full+Stack+Developer;MERN+Stack+Developer;Flutter+Developer;Building+Modern+Digital+Experiences+🚀"/>`{=html}
-```{=html}
+Welcome to my digital space! I am a passionate software engineer focused on building highly scalable web architectures, cross-platform mobile solutions, and AI-driven applications. I thrive on crafting fluid, high-performance digital experiences with cutting-edge frontends and robust backends.
+
+---
+
+## ⚡ Quick Overview
+
+* 🏢 **Founder & Lead Architect** at [TheDevFlo](https://thedevflo.com) (Digital Solutions Agency)
+* 🎓 **B.Tech Student** in Computer Science & Engineering (Specialization: AI & ML)
+* 📱 **Mobile Specialist:** Architecting high-performance iOS & Android applications using Flutter
+* 🧠 **Problem Solver:** 300+ Data Structures & Algorithms problems solved on LeetCode
+* 🚀 **Core Focus:** MERN Stack, Next.js Ecosystem, Flutter Development, and AWS Cloud Infrastructure
+* 🔭 **Currently Upskilling:** Advanced System Design, Distributed Systems, and Microservices
+
+---
+
+## 🛠️ Tech Stack & Ecosystem
+
+###  Core Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,dart" />
+  </a>
 </p>
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Happy%20Maurya&fontAlign=50&fontAlignY=38&color=gradient&animation=fadeIn&fontSize=55"/>`{=html}
 
-## 🚀 About Me
-
--   🎓 Final Year B.Tech Computer Science Engineering Student
--   💻 Founder of **TheDevFlo**
--   🌐 MERN Stack & Flutter Developer
--   🤖 Learning AI, Cloud & System Design
--   🚀 Building SaaS, Marketplace & Modern Web Apps
-
-## 🌐 Connect With Me
-
--   📧 happymaurya543@gmail.com
--   🌍 https://thedevflo.com
--   💻 GitHub: https://github.com/happymaurya
--   💼 LinkedIn: https://linkedin.com/in/happymaurya
-
-------------------------------------------------------------------------
-
-# 💻 Tech Stack
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,flutter,firebase,java,python,javascript,typescript,tailwind,redux,git,github,docker,figma,vscode,linux,aws&perline=10"/>`{=html}
-```{=html}
+###  Frontend & Mobile Architecture
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,redux,html,css" />
+  </a>
 </p>
-```
-## 🚀 Featured Projects
 
--   🌐 TheDevFlo
--   🛒 GoCart
--   📱 FameX
--   📷 Pixo
--   ✈️ AdventureXplorer
-
-## 🌱 Open Source
-
-Actively contributing to open-source projects and improving developer
-tools.
-
-## 📈 Experience Timeline
-
--   Founder --- TheDevFlo
--   Freelance Full Stack Developer
--   MERN Stack Developer
--   Flutter Developer
-
-## 🏆 GitHub Stats
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=happymaurya&show_icons=true&theme=tokyonight"/>`{=html}
-`<img src="https://streak-stats.demolab.com?user=happymaurya&theme=tokyonight"/>`{=html}
-```{=html}
+###  Backend, Databases & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,aws" />
+  </a>
 </p>
-```
-## 📊 Activity Graph
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=happymaurya&theme=tokyo-night"/>`{=html}
-```{=html}
+###  IDEs, Tools & Workflows
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,figma,postman" />
+  </a>
 </p>
-```
-## 📋 Profile Summary
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happymaurya&theme=tokyonight"/>`{=html}
-```{=html}
+---
+
+##  Engineering Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HappyMaurya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Happy's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HappyMaurya&theme=tokyonight&hide_border=true" alt="Happy's GitHub Streak" height="180" />
 </p>
-```
-## 💻 LeetCode
 
-Replace `YOUR_LEETCODE_USERNAME`:
+---
 
-``` html
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
-```
+##  Featured Projects
 
-## 📘 GeeksforGeeks
+### 🌐 TheDevFlo Agency Website
+> **Next.js, TypeScript, Tailwind CSS, GSAP, Framer Motion**
+* Architected a premium, highly responsive business storefront utilizing dark themes and glassmorphic UI elements.
+* Integrated sleek, custom scroll behaviors with Lenis Scroll Trigger to maximize visual engagement and conversions.
+* Optimized for SEO and stellar Core Web Vitals performance.
 
-Add your profile badge or stats image here.
+### 🛒 GoCart E-Commerce Engine
+> **MongoDB, Express.js, React, Node.js, Redux Toolkit**
+* Built a secure, full-stack shopping portal with role-based JWT authentication (Admin/User).
+* Implemented real-time inventory management, advanced filter pipelines, and automated order invoice pipelines.
+* Integrated a production-ready checkout payment gateway simulation.
 
-## 🏅 Trophies
+### 📱 FameX Social Network
+> **Flutter, Dart, Firebase Suite (Auth, Firestore, Cloud Storage), Android Studio**
+* Designed a fast, cross-platform social ecosystem optimized for low-latency media rendering and feeds.
+* Built real-time asynchronous messaging functionality and secure state-persisted user profiles.
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=happymaurya&theme=tokyonight&no-frame=true"/>`{=html}
-```{=html}
-</p>
-```
-## 🐍 Snake Animation
+### 🤖 AI Virtual Assistant
+> **Python, SpeechRecognition, NLP Engines, Automation APIs**
+* Developed an intelligent background assistant executing direct voice command operations, web scraping workflows, and productivity scheduling.
 
-``` md
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-```
+---
 
-## 👀 Visitor Counter
+## 🏆 Key Milestones
 
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=happymaurya&style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
-## 💬 Dev Quote
+*  **Production Delivery:** Handled and shipped web solutions for international clients under my agency banner, TheDevFlo.
+*  **Competitive Programming:** Maintained consistent problem-solving patterns on LeetCode targeting high-difficulty algorithmic concepts.
+*  **Hackathons:** Actively pitching, structural planning, and scaling concepts in multi-stage competitive technical challenges (EY Techathon, Swiggy Food for Thought).
 
-> Code. Create. Innovate. Repeat.
+---
 
-## 🎵 Spotify (Optional)
+## 🤝 Let's Connect
 
-Replace with your Spotify Now Playing widget.
+I am open to **Software Engineering Internships, High-impact Freelance Contracts, Open-source Contributions, and Technical Collaborations.**
 
-## 👨‍💻 Coding GIF
+* 💼 **LinkedIn:** [linkedin.com/in/happymaurya](https://linkedin.com/in/happymaurya)
+* 🌐 **Portfolio:** [thedevflo.com](https://thedevflo.com)
+* 📧 **Primary Inbox:** [happymaurya543@gmail.com](mailto:happymaurya543@gmail.com)
+* 🏢 **Agency Inquiry:** [hello@thedevflo.com](mailto:hello@thedevflo.com)
 
-```{=html}
-<p align="center">
-```
-`<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>`{=html}
-```{=html}
-</p>
-```
-## 📬 Contact
-
--   📧 happymaurya543@gmail.com
--   🌐 https://thedevflo.com
-
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>`{=html}
+---
+<p align="center">⭐ If you like my repositories, feel free to leave a star! ⭐</p>
