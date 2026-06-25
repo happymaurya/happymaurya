@@ -1,103 +1,209 @@
-#   Hi there, I'm Happy Maurya ✨
-  **Senior Full-Stack & Flutter Developer | Founder of TheDevFlo | B.Tech CSE (AI & ML)**
+# 🚀 Premium GitHub README Animations
 
-Welcome to my digital space! I am a passionate software engineer focused on building highly scalable web architectures, cross-platform mobile solutions, and AI-driven applications. I thrive on crafting fluid, high-performance digital experiences with cutting-edge frontends and robust backends.
+## 1. Typing Animation (Header)
 
----
-
-## ⚡ Quick Overview
-
-* 🏢 **Founder & Lead Architect** at [TheDevFlo](https://thedevflo.com) (Digital Solutions Agency)
-* 🎓 **B.Tech Student** in Computer Science & Engineering (Specialization: AI & ML)
-* 📱 **Mobile Specialist:** Architecting high-performance iOS & Android applications using Flutter
-* 🧠 **Problem Solver:** 300+ Data Structures & Algorithms problems solved on LeetCode
-* 🚀 **Core Focus:** MERN Stack, Next.js Ecosystem, Flutter Development, and AWS Cloud Infrastructure
-* 🔭 **Currently Upskilling:** Advanced System Design, Distributed Systems, and Microservices
-
----
-
-## 🛠️ Tech Stack & Ecosystem
-
-###  Core Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,dart" />
-  </a>
+```md
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Happy+Maurya;Founder+of+TheDevFlo;Full+Stack+Developer;MERN+Stack+Developer;Flutter+Developer;Building+Modern+Digital+Experiences+🚀" />
 </p>
+```
 
-###  Frontend & Mobile Architecture
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,redux,html,css" />
-  </a>
+---
+
+# 2. Animated Wave Header
+
+```md
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Happy%20Maurya&fontAlign=50&fontAlignY=38&color=gradient&animation=fadeIn&fontSize=55"/>
+```
+
+---
+
+# 3. Animated Snake Contribution
+
+```md
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
+```
 
-###  Backend, Databases & Cloud
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,aws" />
-  </a>
+---
+
+# 4. Animated Visitor Counter
+
+```md
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=happymaurya&style=for-the-badge&color=blueviolet"/>
 </p>
+```
 
-###  IDEs, Tools & Workflows
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,figma,postman" />
-  </a>
+---
+
+# 5. Profile Trophy Animation
+
+```md
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=happymaurya&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
+```
 
 ---
 
-##  Engineering Metrics
+# 6. GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HappyMaurya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Happy's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HappyMaurya&theme=tokyonight&hide_border=true" alt="Happy's GitHub Streak" height="180" />
+```md
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=happymaurya&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=happymaurya&theme=tokyonight"/>
+
 </p>
+```
 
 ---
 
-##  Featured Projects
+# 7. Top Languages
 
-### 🌐 TheDevFlo Agency Website
-> **Next.js, TypeScript, Tailwind CSS, GSAP, Framer Motion**
-* Architected a premium, highly responsive business storefront utilizing dark themes and glassmorphic UI elements.
-* Integrated sleek, custom scroll behaviors with Lenis Scroll Trigger to maximize visual engagement and conversions.
-* Optimized for SEO and stellar Core Web Vitals performance.
-
-### 🛒 GoCart E-Commerce Engine
-> **MongoDB, Express.js, React, Node.js, Redux Toolkit**
-* Built a secure, full-stack shopping portal with role-based JWT authentication (Admin/User).
-* Implemented real-time inventory management, advanced filter pipelines, and automated order invoice pipelines.
-* Integrated a production-ready checkout payment gateway simulation.
-
-### 📱 FameX Social Network
-> **Flutter, Dart, Firebase Suite (Auth, Firestore, Cloud Storage), Android Studio**
-* Designed a fast, cross-platform social ecosystem optimized for low-latency media rendering and feeds.
-* Built real-time asynchronous messaging functionality and secure state-persisted user profiles.
-
-### 🤖 AI Virtual Assistant
-> **Python, SpeechRecognition, NLP Engines, Automation APIs**
-* Developed an intelligent background assistant executing direct voice command operations, web scraping workflows, and productivity scheduling.
+```md
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happymaurya&layout=compact&theme=tokyonight"/>
+</p>
+```
 
 ---
 
-## 🏆 Key Milestones
+# 8. Activity Graph Animation
 
-*  **Production Delivery:** Handled and shipped web solutions for international clients under my agency banner, TheDevFlo.
-*  **Competitive Programming:** Maintained consistent problem-solving patterns on LeetCode targeting high-difficulty algorithmic concepts.
-*  **Hackathons:** Actively pitching, structural planning, and scaling concepts in multi-stage competitive technical challenges (EY Techathon, Swiggy Food for Thought).
+```md
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=happymaurya&theme=tokyo-night"/>
+</p>
+```
+
+---
+
+# 9. Skill Icons
+
+```md
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,flutter,firebase,java,python,typescript,javascript,tailwind,redux,git,github,docker,figma,vscode,linux,aws&perline=10"/>
+</p>
+```
 
 ---
 
-## 🤝 Let's Connect
+# 10. Animated Tech Badges
 
-I am open to **Software Engineering Internships, High-impact Freelance Contracts, Open-source Contributions, and Technical Collaborations.**
+```md
+<p align="center">
 
-* 💼 **LinkedIn:** [linkedin.com/in/happymaurya](https://linkedin.com/in/happymaurya)
-* 🌐 **Portfolio:** [thedevflo.com](https://thedevflo.com)
-* 📧 **Primary Inbox:** [happymaurya543@gmail.com](mailto:happymaurya543@gmail.com)
-* 🏢 **Agency Inquiry:** [hello@thedevflo.com](mailto:hello@thedevflo.com)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js"/>
+
+</p>
+```
 
 ---
-<p align="center">⭐ If you like my repositories, feel free to leave a star! ⭐</p>
+
+# 11. Animated Quote
+
+```md
+<p align="center">
+
+> 🚀 Code. Create. Innovate. Repeat.
+
+</p>
+```
+
+---
+
+# 12. Coding GIF
+
+```md
+<p align="center">
+<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</p>
+```
+
+---
+
+# 13. LeetCode Card
+
+```md
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Poppins&ext=contest"/>
+</p>
+```
+
+---
+
+# 14. GitHub Profile Summary
+
+```md
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happymaurya&theme=tokyonight"/>
+
+</p>
+```
+
+---
+
+# 15. Footer Animation
+
+```md
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+```
+
+---
+
+# 16. Contact Buttons
+
+```md
+<p align="center">
+
+<a href="mailto:happymaurya543@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://thedevflo.com">
+<img src="https://img.shields.io/badge/TheDevFlo-000000?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+</p>
+```
+
+---
+
+# 17. Matrix Animation Banner
+
+```md
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=TheDevFlo&fontSize=50&animation=twinkling"/>
+</p>
+```
+
+---
+
+# 18. Dynamic Footer Typing
+
+```md
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Amazing+Together.;Open+Source+Contributor.;Always+Learning+🚀"/>
+</p>
+```
